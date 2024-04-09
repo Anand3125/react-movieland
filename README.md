@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Anand3125/react-movieland/assets/124582976/10291a3a-691c-4e39-a658-c5d655d65bfe)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
