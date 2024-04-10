@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#  Created a movie app front end in  React Js and intergrate this  with in  with OMDb movie app api.
 
 ![image](https://github.com/Anand3125/react-movieland/assets/124582976/10291a3a-691c-4e39-a658-c5d655d65bfe)
 1. **Setup and Dependencies:** Initialize a new React project using Create React App, which sets up the environment and provides a development server, Webpack configuration, and Babel presets. Install necessary dependencies like `react-router-dom` for routing and possibly libraries for state management like Redux or Context API.
