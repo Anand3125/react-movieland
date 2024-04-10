@@ -2,7 +2,8 @@
 
 Creating a movie web application using React and deploying it on Vercel involves several steps, encompassing both development and deployment phases...
 
-![image](https://github.com/Anand3125/react-movieland/assets/124582976/10291a3a-691c-4e39-a658-c5d655d65bfe)
+![image](https://github.com/Anand3125/react-movieland/assets/124582976/be23c8a2-c525-4464-851f-992ed67f9fd7)
+
 1. **Setup and Dependencies:** Initialize a new React project using Create React App, which sets up the environment and provides a development server, Webpack configuration, and Babel presets. Install necessary dependencies like `react-dom` for react app and possibly libraries for svg image  like search svg or some API.
 
 2. **API Integration:** Integrate a movie database API (The Movie Database API) to fetch movie information. This involves making HTTP requests using fetch API to retrieve movie details, search results, and categories.
