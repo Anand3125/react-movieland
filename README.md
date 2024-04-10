@@ -1,73 +1,26 @@
 # Getting Started with Create React App
 
 ![image](https://github.com/Anand3125/react-movieland/assets/124582976/10291a3a-691c-4e39-a658-c5d655d65bfe)
+1. **Setup and Dependencies:** Initialize a new React project using Create React App, which sets up the environment and provides a development server, Webpack configuration, and Babel presets. Install necessary dependencies like `react-router-dom` for routing and possibly libraries for state management like Redux or Context API.
+
+2. **API Integration:** Integrate a movie database API (The Movie Database API) to fetch movie information. This involves making HTTP requests using fetch API to retrieve movie details, search results, and categories.
+
+3. **Building Components:** Create React components for different parts of the application, such as a search bar, movie list, movie card, and detailed view pages. Use state and effects hooks (`useState`, `useEffect`) to manage data fetching and state.
+
+4. **Styling:** Style the components using CSS or CSS-in-JS libraries like styled-components. Ensure responsiveness and an attractive user interface.
+
+5. **Searching:** Implement searching with `search logo svg image` to search different names of movies, such as the Name of the movie, date of release, and images if available.
+
+### Deployment on Vercel
+
+1. **Vercel Setup:** Sign up or log in to Vercel. Connect your GitHub, GitLab, account to Vercel, allowing it to access your project repository.
+
+2. **Project Configuration:** Import your project into Vercel by selecting the repository where your react-movieland app is stored. Configure build settings if necessary, though Vercel automatically detects and configures many projects.
+
+3. **Deployment:** Deploy your application by pushing changes to your connected repository. Vercel automatically deploys new changes on push, providing a unique URL to access your live application.
+
+4. **Live Update and Domain Configuration:** Once deployed, your app is live and accessible. We can configure a custom domain through Vercel's dashboard. Continuous deployment is supported, so every git push updates the live application.
+
+This process results in a fully functional, publicly accessible movie web application built with React and hosted on Vercel, benefiting from Vercel's easy deployment, scalability, and out-of-the-box support for React applications.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
