@@ -24,3 +24,4 @@
 This process results in a fully functional, publicly accessible movie web application built with React and hosted on Vercel, benefiting from Vercel's easy deployment, scalability, and out-of-the-box support for React applications.
 
 
+Date: April/ 10th / 2024                                                                                                        place: Bengaluru, India
